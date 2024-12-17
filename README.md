@@ -1,4 +1,4 @@
-# WMP_FInal_Exam
+# WMP_Final_Exam
 This is the Final Exam of Wireless Mobile Programming
 
 Wireless Mobile Programming Final Exam 
@@ -8,3 +8,5 @@ Wireless Mobile Programming Final Exam
  Additional: a max limit where total credits cannot more than x (i.e 24 credits)
 
  I made an additional feature which can make the student to delete enrolled subject (this function is used if the user take the wrong subject) 
+
+I made a documentation but sorry if laggy, my phone is old :D
